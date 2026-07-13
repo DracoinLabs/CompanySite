@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 48" fill="none" role="img" aria-label="DracoinLabs">
+  <defs>
+    <linearGradient id="logo-bg" x1="4" y1="2" x2="32" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A6BFF"/>
+      <stop offset="1" stop-color="#003DA8"/>
+    </linearGradient>
+    <linearGradient id="logo-shine" x1="8" y1="6" x2="24" y2="20" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(0,6) scale(1.333333)">
+    <rect width="36" height="36" fill="url(#logo-bg)"/>
+    <rect width="36" height="36" fill="url(#logo-shine)"/>
+    <path d="M18 7.5L26.2 12.25V21.75L18 26.5L9.8 21.75V12.25L18 7.5Z" stroke="#fff" stroke-width="1.6" stroke-linejoin="round"/>
+    <circle cx="18" cy="17" r="5.25" stroke="#fff" stroke-width="1.6"/>
+    <path d="M18 13.2V20.8" stroke="#fff" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M15.1 17H20.9" stroke="#fff" stroke-width="1.4" stroke-linecap="round"/>
+    <circle cx="18" cy="17" r="1.35" fill="#fff"/>
+    <circle cx="26.8" cy="10.2" r="1.1" fill="#fff" fill-opacity="0.85"/>
+    <circle cx="9.2" cy="10.2" r="1.1" fill="#fff" fill-opacity="0.85"/>
+    <circle cx="18" cy="27.8" r="1.1" fill="#fff" fill-opacity="0.85"/>
+  </g>
+  <text x="58" y="22" font-family="Inter, Segoe UI, system-ui, sans-serif" font-size="18" font-weight="600" fill="#09111F" letter-spacing="-0.4">DracoinLabs</text>
+  <text x="58" y="38" font-family="Inter, Segoe UI, system-ui, sans-serif" font-size="10" font-weight="500" fill="#8B97A8" letter-spacing="0.8">WEB3 INFRASTRUCTURE</text>
+</svg>
