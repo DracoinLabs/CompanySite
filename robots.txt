@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /portfolio.html
+Disallow: /reviews.html
+Disallow: /ecosystem.html
+
+Sitemap: https://dracoinlabs.com/sitemap.xml
